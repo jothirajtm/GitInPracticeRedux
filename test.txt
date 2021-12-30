@@ -9,3 +9,4 @@ anglais
 git 
 angular
 fkfjafifk
+french
